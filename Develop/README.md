@@ -1,33 +1,33 @@
-# Readme generator
+# Readme Generator
 
   ## Description
 
-  Being able to create a proffesional readme generator from the command-line
+  Being able to write a professional readme through the terminal
 
-  ##Table Of Contents
+  ## Table Of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#contributions)
 - [License](#license)
 
-  ##Installation
+## Installation
 
   npm i
 
-  ##Usage
+## Usage
 
-  git clone the repo from  https://github.com/Edesp1/9challenge . open terminal and type node index.js to start the Readme generator.
+  git clone this repo  at https://github.com/Edesp1/readme-generator then open the terminal and run npm i to download all dependencies then run node index.js to start the application
 
-  ##Collaboration
+## Collaboration
 
-  Contributions are closed
+  Contributions are closed until further notice
 
-  ##License
+## License
 
   MIT
 
-  ##Tests
+## Tests
 
   npm test
 
